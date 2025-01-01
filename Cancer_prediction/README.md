@@ -1,8 +1,6 @@
 # Machine Learning for Early Cancer Prediction
 
-## Team Members:
-- Praveen V 
-- Kabileshwaran SD 
+
 
 ## 1. Introduction:
 In contemporary healthcare, early cancer detection is of paramount importance. Identifying cancerous conditions at an early stage significantly improves patient outcomes and enables more effective treatment strategies. This project aims to leverage the potential of machine learning and deep learning methodologies to predict three prominent types of cancers: oral, cervical, and brain tumors.
@@ -31,13 +29,6 @@ The project is motivated by the transformative capabilities of machine learning 
 - The dataset used for training and testing the models is available in the `/Dataset` directory.The dataset is obtained from kaggle.
 
 
-### Contributing:
-- We welcome contributions and collaboration. Fork the repository, create a new branch, and submit a pull request.
 
-### Issues:
-- If you encounter any issues or have suggestions, please open an issue on the GitHub repository.
-
-### License:
-- This project is licensed under the [MIT License](LICENSE).
 
 
