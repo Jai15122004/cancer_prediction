@@ -2,7 +2,7 @@
 
 
 
-## 1. Introduction:
+## 1. Introduction: 
 In contemporary healthcare, early cancer detection is of paramount importance. Identifying cancerous conditions at an early stage significantly improves patient outcomes and enables more effective treatment strategies. This project aims to leverage the potential of machine learning and deep learning methodologies to predict three prominent types of cancers: oral, cervical, and brain tumors.
 
 ## 2. Rationale:
